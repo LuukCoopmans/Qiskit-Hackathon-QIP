@@ -1,0 +1,12 @@
+This contains STEM images, saved in form of numpy format.
+These samples were given by Laura Gambini in our group.
+Load them using
+
+```python
+cimg = np.load('img.npy')
+nimg = np.load('noisy_img.npy')
+print(cimg.shape, nimg.shape)
+```
+
+cimg, nimg are both numpy arrays of 5x128x128 shape
+with 5 samples of 128x128 grayscale images.
