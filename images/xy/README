@@ -1,0 +1,13 @@
+Here we have Monte Carlo snapshots of classical xy model
+defined on 256x256 lattice. In order to get a rich vortex
+struction one need larger lattice. But this can be safely
+scaled down to 64x64.
+
+There are two sets of figures, one plots the angle of the
+spins and grayscale images. In the other set, the one
+uses the spins themselve (cos(theta), sin(theta), 0)
+as pixel colors.
+
+Both these sets of figures are put in two directories.
+One set in 256 which is original data, and other set in
+64 which containes resized image 64x64.
