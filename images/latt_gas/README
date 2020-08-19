@@ -1,0 +1,7 @@
+The images here are directly saved from data, i.e., without any smoothing/processing.
+This allows minimal size pngs with exact data from calculations.
+The images range from 0.png...to 99.png are snapshots of lattice
+gas model from high to low temperature. We used Monte Carlo
+to simulate 'quenching' rather than slow annealing, in which
+the ground state a some defects rather than perfect checkerboard
+order.
