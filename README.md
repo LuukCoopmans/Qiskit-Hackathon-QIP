@@ -9,3 +9,4 @@ In this code, for reproducibility, we used following versions:
 - Numpy 1.19.1
 - Opencv (cv2) 4.4.0
 - Qiskit 0.15.1
+- Jupyter Notebook 
