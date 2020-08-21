@@ -3,7 +3,9 @@ We are a mixed team of students (2 undergraduate and 1 graduate) and 2 postdocs 
 
 The presentation with the explanation of our method for quantum watermarking and some results can be found in the file: Quantum_watermarking_Qiskit_Hackathon_presentation.pdf
 
-And we provided a Jupyter notebook with our codes and examples to show how it works in practise in the file:
+And we provided a Jupyter notebook with our codes and examples to show how it works in practise in the file: Quantum Watermarking Greyscale Images.ipynb
+
+For questions and recommendations you can contact us. 
 
 
 # Version requirements
