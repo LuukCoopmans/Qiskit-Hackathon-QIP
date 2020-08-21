@@ -5,7 +5,7 @@ The presentation with the explanation of our method for quantum watermarking and
 
 And we provided a Jupyter notebook with our codes and examples to show how it works in practise in the file: Quantum Watermarking Greyscale Images.ipynb
 
-For questions and recommendations you can contact us. 
+For questions and recommendations you can contact us at any time. 
 
 
 # Version requirements
